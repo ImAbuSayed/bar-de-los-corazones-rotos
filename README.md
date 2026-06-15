@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bar de los corazones rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
+| **Get License** | [Music Rights & Licensing for Bar de los corazones rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ed25fe9ad1ccfefb60c6f2c626c68b9f5e3834429ae8d0746e61d02a5165435b` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

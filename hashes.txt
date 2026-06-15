@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bar de los corazones rotos
+
+This log tracks the cryptographic history and versioning for the song **Bar de los corazones rotos** (bar-de-los-corazones-rotos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:42:08.610512 | `v1` | `ed25fe9ad1ccfefb60c6f2c626c68b9f5e3834429ae8d0746e61d02a5165435b` | `c2d4c84169fcea8802b196d62d2321864caabcd610ebcc6653fe9778f2c49eb4` | `2026-06-15_bar-de-los-corazones-rotos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
