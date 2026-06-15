@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bar de los corazones rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
+| **Get License** | [Get License For Bar de los corazones rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bar-de-los-corazones-rotos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, esta noche nos perdemos en la oscuridad
+> Tú y yo bailando, olvidando toda la ciudad
+> En el bar de los corazones rotos, eres mi necesidad
+> Un poco de peligro, mami, y mucha sensualidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
